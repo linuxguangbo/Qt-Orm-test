@@ -1,7 +1,7 @@
 #pragma once
 
 #include <QObject>
-#include "Object_qdbc.h"
+#include "Qdbc/Qdbc.h"
 #include "Hellothread.h"
 class QHello : public QObject
 {
